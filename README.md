@@ -156,59 +156,38 @@ mindmap
 
 ## 🎨 Portfolio Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <a href="https://github.com/inevitable-ank/MentalEase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=MentalEase&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/inevitable-ank/StartupSaga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=StartupSaga&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/inevitable-ank/DiabetesCare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=DiabetesCare&theme=tokyonight&hide_border=false" />
+  </a>
+  <a href="https://github.com/inevitable-ank/Schoolweb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=Schoolweb&theme=tokyonight&hide_border=false" />
+  </a>
+</div>
 
-### 🧠 MentalEase
-**AI-Powered Mental Health Platform**
-- **Users:** 100+ active users
-- **Tech:** React.js, Node.js, MongoDB, Gemini AI
-- **Features:** Mood tracking, AI therapy, anonymous sharing
-- **Impact:** Comprehensive mental wellness support
+### 🚀 Project Highlights
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/MentalEase)
+<div align="center">
 
-</td>
-<td width="50%">
+| 🧠 **MentalEase** | 🎯 **StartupSaga** |
+|:---:|:---:|
+| **100+ Users** | **1600+ Students** |
+| AI-Powered Mental Health | Pan-India Event Portal |
+| React.js • Node.js • MongoDB • Gemini AI | React.js • Real-time Updates • Figma |
 
-### 🎯 StartupSaga
-**Pan-India Event Portal**
-- **Users:** 1600+ students nationwide
-- **Tech:** React.js, Real-time updates, Figma
-- **Features:** Event registration, live updates
-- **Impact:** Connected students across India
+| 🩺 **DiabetesCare** | 🏫 **Schoolweb** |
+|:---:|:---:|
+| **150+ Patients** | **Educational Platform** |
+| AI Health Management | School Management System |
+| React.js • Node.js • Gemini AI • Drizzle ORM | Modern Web Technologies |
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/StartupSaga)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🩺 DiabetesCare
-**AI Health Management System**
-- **Users:** 150+ patients
-- **Tech:** React.js, Node.js, Gemini AI, Drizzle ORM
-- **Features:** Report scanning, Kanban boards, Privy auth
-- **Impact:** Streamlined diabetes management
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/DiabetesCare)
-
-</td>
-<td width="50%">
-
-### 🏫 Schoolweb
-**Educational Platform**
-- **Tech:** Modern web technologies
-- **Features:** School management system
-- **Impact:** Digital education solutions
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/Schoolweb)
-
-</td>
-</tr>
-</table>
+</div>
 
 
 <div align="center">
