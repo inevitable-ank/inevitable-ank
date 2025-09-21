@@ -155,20 +155,60 @@ mindmap
 - **DSA Mastery:** 100+ algorithm challenges solved on LeetCode & GeeksforGeeks
 
 ## 🎨 Portfolio Projects
-<div align="center">
-  <a href="https://github.com/inevitable-ank/Schoolweb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=Schoolweb&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/inevitable-ank/Birthday_card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=Birthday_card&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/inevitable-ank/Record-meankit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=Record-meankit&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/inevitable-ank/Online-Courses">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=inevitable-ank&repo=Online-Courses&theme=tokyonight" />
-  </a>
-</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 MentalEase
+**AI-Powered Mental Health Platform**
+- **Users:** 100+ active users
+- **Tech:** React.js, Node.js, MongoDB, Gemini AI
+- **Features:** Mood tracking, AI therapy, anonymous sharing
+- **Impact:** Comprehensive mental wellness support
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/MentalEase)
+
+</td>
+<td width="50%">
+
+### 🎯 StartupSaga
+**Pan-India Event Portal**
+- **Users:** 1600+ students nationwide
+- **Tech:** React.js, Real-time updates, Figma
+- **Features:** Event registration, live updates
+- **Impact:** Connected students across India
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/StartupSaga)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🩺 DiabetesCare
+**AI Health Management System**
+- **Users:** 150+ patients
+- **Tech:** React.js, Node.js, Gemini AI, Drizzle ORM
+- **Features:** Report scanning, Kanban boards, Privy auth
+- **Impact:** Streamlined diabetes management
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/DiabetesCare)
+
+</td>
+<td width="50%">
+
+### 🏫 Schoolweb
+**Educational Platform**
+- **Tech:** Modern web technologies
+- **Features:** School management system
+- **Impact:** Digital education solutions
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/inevitable-ank/Schoolweb)
+
+</td>
+</tr>
+</table>
 
 
 <div align="center">
