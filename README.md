@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=350&section=header&text=Ankit%20Kumar%20Ranjan&fontSize=80&fontAlignY=35&desc=Tech%20Innovator%20|%20Problem%20Solver&descAlignY=55&animation=twinkling&fontColor=ffffff&stroke=4a90e2&strokeWidth=2)](https://github.com/inevitable-ank)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=300&section=header&text=Ankit%20Kumar%20Ranjan&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&animation=twinkling&fontColor=00ff00&stroke=00ff00&strokeWidth=2)](https://github.com/inevitable-ank)
 
 </div>
 
