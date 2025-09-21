@@ -103,28 +103,6 @@ const ankit = {
 ## 📈 Contribution Graph
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=inevitable-ank&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 💼 Professional Experience
-
-### 🏢 Citadel - Full Stack Intern (Oct 2021 - Present)
-**Technologies:** React.js, Node.js, TypeScript, PostgreSQL, AWS, Docker, Redis, CloudFront
-- **Led full-stack implementation:** Built OTP onboarding, S3 profile storage, and adjective-based matching system
-- **Real-time chat system:** Implemented low-latency chat with Socket.IO and Redis, including typing indicators and read receipts
-- **Payment integration:** Integrated PhonePe Gateway for secure event payments and booking workflows
-- **Performance optimization:** Boosted UX with reusable Tailwind/Radix components, code-splitting, and React Query caching
-
-### 🏢 Hydyko Technologies - Full Stack Intern (Jan 2025 - July 2025)
-**Technologies:** NestJS, React.js, Next.js, Antd, ShadCN, TypeScript, PostgreSQL, BigQuery
-- **Performance gains:** Slashed client-side bundle size by 30% and accelerated load times by 25%
-- **Data pipeline automation:** Built ETL pipelines with BigQuery integration, cutting API latency
-- **Interactive dashboards:** Delivered visualizations that improved decision-making by 28%
-- **Security & documentation:** Enforced RBAC, validated endpoints via Swagger, improved onboarding by 50%
-
-### 🏢 Zafo.ai - Software Developer Intern (Dec 2024 - Jan 2025)
-**Technologies:** Next.js, Tailwind CSS, Node.js, MongoDB
-- **Landing page development:** Created responsive React-based site, boosting conversion rates by 40%
-- **TDD implementation:** Achieved 95% test coverage, reducing production bugs by 30%
-- **AI integration:** Built LLM-powered APIs for social media automation, increasing engagement by 40%
-
 ## 🎯 Current Focus
 ```mermaid
 mindmap
