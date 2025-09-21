@@ -129,31 +129,6 @@ mindmap
       Data Analysis
 ```
 
-## 🚀 Featured Projects
-
-### 🧠 MentalEase - AI-Powered Mental Health Platform
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini AI, Tailwind CSS
-- Built a comprehensive mental health app serving **100+ users**
-- Implemented mood tracking, AI therapy sessions, and anonymous sharing features
-- Integrated secure authentication and interactive quizzes for mental wellness
-
-### 🎯 StartupSaga - Pan-India Event Portal  
-**Tech Stack:** React.js, HTML, CSS, JavaScript, Figma
-- Launched a nationwide event platform serving **1600+ students**
-- Implemented real-time registration and live updates
-- Designed responsive UI with seamless user experience
-
-### 🩺 DiabetesCare - AI Health Management
-**Tech Stack:** React.js, Node.js, Gemini AI, Drizzle ORM, Privy
-- Developed AI-powered diabetes management for **150+ patients**
-- Features report scanning, schedule management via Kanban boards
-- Implemented secure Privy authentication and responsive UI
-
-### 🏆 Hackathon Achievements
-- **HackFormers Terna COE:** Top 5 out of 50+ teams - Built real-time collaboration tool
-- **INNERVE:** "Best Front-End Team" - 30% improvement in usability scores
-- **DSA Mastery:** 100+ algorithm challenges solved on LeetCode & GeeksforGeeks
-
 ## 🎨 Portfolio Projects
 
 <div align="center">
