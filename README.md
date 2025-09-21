@@ -23,27 +23,36 @@
 ```typescript
 const ankit = {
     pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
-    askMeAbout: ["web dev", "full stack", "react", "vue", "tech"],
+    education: "B.Tech in Electronics & Telecommunication @ Army Institute of Technology",
+    location: "Pune, India",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Golang", "Dart"],
+    askMeAbout: ["full stack development", "react", "node.js", "system design", "startups"],
     technologies: {
-        frontend: ["React", "Vue", "HTML5", "CSS3", "JavaScript", "TypeScript"],
+        frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS", "Flutter"],
         backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Flask", "FastAPI"]
+            js: ["Node.js", "Express", "NestJS", "GraphQL"],
+            python: ["FastAPI", "Data Analysis"]
         },
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        devOps: ["Docker", "Git", "GitHub Actions", "CI/CD"]
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "BigQuery"],
+        cloud: ["AWS", "Docker", "CloudFront", "S3"],
+        tools: ["Git", "Figma", "Jest", "Swagger", "Postman"]
     },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "Code is like humor. When you have to explain it, it's bad."
+    currentFocus: "Building Scalable Full-Stack Applications & AI Integration",
+    achievements: [
+        "Top 5% in JEE Advanced",
+        "100+ DSA problems solved",
+        "Led 5+ startup events for 300+ entrepreneurs",
+        "Built apps serving 100+ users"
+    ],
+    funFact: "Transformed a simple idea into a platform serving 1600+ students across India! 🚀"
 };
 ```
 
 ## 🌐 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-kumar-ranjan-107244226"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:inevitableank@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+918289094077"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/inevitable-ank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -66,12 +75,16 @@ const ankit = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Database & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -88,31 +101,78 @@ const ankit = {
 ## 📈 Contribution Graph
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=inevitable-ank&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 💼 Professional Experience
+
+### 🏢 Citadel - Full Stack Intern (Oct 2021 - Present)
+**Technologies:** React.js, Node.js, TypeScript, PostgreSQL, AWS, Docker, Redis, CloudFront
+- **Led full-stack implementation:** Built OTP onboarding, S3 profile storage, and adjective-based matching system
+- **Real-time chat system:** Implemented low-latency chat with Socket.IO and Redis, including typing indicators and read receipts
+- **Payment integration:** Integrated PhonePe Gateway for secure event payments and booking workflows
+- **Performance optimization:** Boosted UX with reusable Tailwind/Radix components, code-splitting, and React Query caching
+
+### 🏢 Hydyko Technologies - Full Stack Intern (Jan 2025 - July 2025)
+**Technologies:** NestJS, React.js, Next.js, Antd, ShadCN, TypeScript, PostgreSQL, BigQuery
+- **Performance gains:** Slashed client-side bundle size by 30% and accelerated load times by 25%
+- **Data pipeline automation:** Built ETL pipelines with BigQuery integration, cutting API latency
+- **Interactive dashboards:** Delivered visualizations that improved decision-making by 28%
+- **Security & documentation:** Enforced RBAC, validated endpoints via Swagger, improved onboarding by 50%
+
+### 🏢 Zafo.ai - Software Developer Intern (Dec 2024 - Jan 2025)
+**Technologies:** Next.js, Tailwind CSS, Node.js, MongoDB
+- **Landing page development:** Created responsive React-based site, boosting conversion rates by 40%
+- **TDD implementation:** Achieved 95% test coverage, reducing production bugs by 30%
+- **AI integration:** Built LLM-powered APIs for social media automation, increasing engagement by 40%
+
 ## 🎯 Current Focus
 ```mermaid
 mindmap
   root((Skills))
     Frontend Development
       React Advanced Patterns
-      Vue.js
+      Next.js Optimization
       Modern CSS
     Backend
       Node.js
-      Express
       NestJS
+      GraphQL
     Database
       PostgreSQL
       MongoDB
-      MySQL
-    DevOps
+      Redis
+    Cloud & DevOps
+      AWS
       Docker
       CI/CD
-      Git Workflows
-    Architecture
-      Clean Code
-      SOLID Principles
-      Design Patterns
+    AI Integration
+      Gemini AI
+      LLM APIs
+      Data Analysis
 ```
+
+## 🚀 Featured Projects
+
+### 🧠 MentalEase - AI-Powered Mental Health Platform
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini AI, Tailwind CSS
+- Built a comprehensive mental health app serving **100+ users**
+- Implemented mood tracking, AI therapy sessions, and anonymous sharing features
+- Integrated secure authentication and interactive quizzes for mental wellness
+
+### 🎯 StartupSaga - Pan-India Event Portal  
+**Tech Stack:** React.js, HTML, CSS, JavaScript, Figma
+- Launched a nationwide event platform serving **1600+ students**
+- Implemented real-time registration and live updates
+- Designed responsive UI with seamless user experience
+
+### 🩺 DiabetesCare - AI Health Management
+**Tech Stack:** React.js, Node.js, Gemini AI, Drizzle ORM, Privy
+- Developed AI-powered diabetes management for **150+ patients**
+- Features report scanning, schedule management via Kanban boards
+- Implemented secure Privy authentication and responsive UI
+
+### 🏆 Hackathon Achievements
+- **HackFormers Terna COE:** Top 5 out of 50+ teams - Built real-time collaboration tool
+- **INNERVE:** "Best Front-End Team" - 30% improvement in usability scores
+- **DSA Mastery:** 100+ algorithm challenges solved on LeetCode & GeeksforGeeks
 
 ## 🎨 Portfolio Projects
 <div align="center">
