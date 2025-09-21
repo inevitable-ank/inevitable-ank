@@ -150,17 +150,17 @@ mindmap
 
 <div align="center">
 
-| 🧠 **MentalEase** | 🎯 **StartupSaga** |
+| 🧠 **MentalEase** | 🩺 **DiabetesCare** |
 |:---:|:---:|
-| **100+ Users** | **1600+ Students** |
-| AI-Powered Mental Health | Pan-India Event Portal |
-| React.js • Node.js • MongoDB • Gemini AI | React.js • Real-time Updates • Figma |
+| **AI-Powered Mental Health** | **AI Health Management** |
+| JavaScript • React.js • Node.js | JavaScript • React.js • Node.js |
+| Mood tracking & AI therapy | Report scanning & management |
 
-| 🩺 **DiabetesCare** | 🏫 **Schoolweb** |
+| 🧹 **Swachh** | 🤖 **Ai-interview_** |
 |:---:|:---:|
-| **150+ Patients** | **Educational Platform** |
-| AI Health Management | School Management System |
-| React.js • Node.js • Gemini AI • Drizzle ORM | Modern Web Technologies |
+| **Clean India Initiative** | **AI Interview Assistant** |
+| TypeScript • Modern Web Tech | TypeScript • AI Integration |
+| Community-driven platform | Intelligent interview prep |
 
 </div>
 
